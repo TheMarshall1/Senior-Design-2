@@ -1,0 +1,29 @@
+Arduino IDE WI-FI. Working on trying to get it to create a webserver and send an email. 
+  1.)	https://www.arduino.cc/en/Tutorial/LibraryExamples/WiFiWebServer
+    a.	Shows how you can use the Arduino WiFiNINA library to connect to wifi and create a webserver and host a webpage. 
+  2.)	https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+     a.	List of protocols for HTML.
+  3.)	http://cactus.io/tutorials/arduino/basic-web-server-software
+    a.	Tutorial how to host a webpage from the webserver by using the Arduino.
+  4.)	https://www.arduino.cc/en/Reference/WiFiNINA
+    a.  WiFiNINA library used to connect to wifi.
+    b.	Shows all the different functions specific to the library and gives their definitions/examples
+  5.)	https://stackoverflow.com/questions/5335273/how-can-i-send-an-email-using-php
+    a.	PHP mail() function to send an email.
+        i.	(Struggling to get the php function to send the email to my gmail account)
+        
+Sending SMS messages using the Arduino. (Needs the GSM shield).
+  1.)	https://www.amazon.com/GPRS-GSM-Shield-Arduino-GPS/dp/B01HNV3ZXC
+    a.	GSM shield that will allow it to use the GSM library that can allow it send SMS messages
+  2.)	https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/
+    a.	Also allows it send SMS messages, but uses a different library
+  3.)	https://www.arduino.cc/en/Reference/GSM
+    a.	GSM library to connect to wifi and send sms messages
+    b.	Shows all the different functions specific to the library and gives their definitions/examples
+    
+NRF24L01:
+Here is a source that I have been looking at to get a better understanding of how to write the code:
+  1.) https://maniacbug.wordpress.com/2012/03/30/rf24network/
+  
+Here is a datasheet that shows the specifications of the device (voltage required, amp limit, bandwidth, how to wire it):
+  2.) https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf
