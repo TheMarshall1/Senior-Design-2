@@ -1,3 +1,8 @@
 
 This folder contain the general info for the battery/logic board designed by Khanh Le via Altium
 
+Main functionality:
+
+Battery Reverse Voltage Protection.
+Low Battery Detection LED.
+Alarm Signal Processing
