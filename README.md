@@ -17,3 +17,5 @@ Scope:
 Continuing from our first semester prototype, our team will focus on achieving the goals
 defined in the Tasks and Deliverables section. This document will keep track of the task needed
 to be done .
+### Teams Link
+https://teams.microsoft.com/l/channel/19%3aRfTW1WtWi_rlrrXjveJYQXDsdVA2zwDeV-sNyXwoO8I1%40thread.tacv2/General?groupId=bc4d365e-617b-4d53-8630-588b21568dd2&tenantId=e05b6b3f-1980-4b24-8637-580771f44dee
