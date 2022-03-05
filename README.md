@@ -1,11 +1,11 @@
 # Team GoGetters
-# Purpose, Objective, Introduction:
+## Purpose, Objective, Introduction:
 The problem our team is trying to tackle is wandering in dementia patients. Alzheimer’s
 disease or other dementia causes people to lose their ability to recognize familiar places and
 faces. It’s common for grandparents living with dementia to wander or become lost or confused
 about their location, and it can happen at any stage of the disease. Although common,
 wandering can be dangerous and the stress of this risk weighs heavily on caregivers and family.
-# Solution:
+## Solution:
 The project is designed to give the patient around the clock care. It is a sensor system
 consisting of two boards. First, a weight sensor that is located under the patient mattress and
 motion sensor near the bed work together to collect and analyze data with an Arduino
